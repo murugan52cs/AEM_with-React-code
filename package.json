@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@adobe/aem-react-editable-components": "^2.1.1"
+  }
+}
